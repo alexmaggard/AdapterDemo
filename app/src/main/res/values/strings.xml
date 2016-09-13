@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdapterDemo</string>
+
+    <!-- Array for adapter -->
+    <string-array name="list_adapter_array">
+        <item>Android List</item>
+        <item>iPhone List</item>
+        <item>Off-Brand List</item>
+    </string-array>
+</resources>
